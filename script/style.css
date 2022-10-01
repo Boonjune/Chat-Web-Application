@@ -1,0 +1,99 @@
+body {
+	background-color : black;
+}
+
+h1 {
+	color : lime;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	text-align: center;
+}
+
+h3 {
+	color : lime;
+}
+
+p {
+	color : lime; 
+}
+
+.hidden {
+	color : black;
+	font-size: 4px;
+}
+
+ul {
+	color : lime;
+}
+
+.center {
+	align: center;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.centerprompt {
+	align: center;
+	text-align: center;
+	display: block;
+	margin: auto;
+	margin: auto;
+	text-color: #00cc00;
+	font-size: 10px;
+}
+
+.messages {
+	height: 400px;
+	width: 600px;
+	overflow: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.leftUN {
+	align: left;
+	color: #00bb00;
+	width: 60px;
+	font-weight: bold;
+}
+
+.leftM {
+	align: left;
+	color: #00bb00;
+	width: 250px;
+}
+
+.rightM {
+	align: right;
+	color: lime;
+	width: 250px;
+}
+
+table {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.server_time_display {
+	position: absolute;
+	bottom: 0;
+	right:0;
+}
+
+.userbox {
+	height :150px;
+	width : 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.userlist {
+	color: lime;
+	font-size: 12px;
+	font-weight: bold;
+}
